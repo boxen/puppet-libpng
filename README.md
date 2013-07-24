@@ -2,7 +2,7 @@
 
 Installs libpng.
 
-[![Build Status](https://travis-ci.org/mattheath/puppet-libpng.png?branch=master)](https://travis-ci.org/mattheath/puppet-libpng)
+[![Build Status](https://travis-ci.org/boxen/puppet-libpng.png?branch=master)](https://travis-ci.org/boxen/puppet-libpng)
 
 ## Usage
 
