@@ -1,16 +1,7 @@
 # libpng Puppet Module for Boxen
 
-Installs libpng.
+Deprecated in favour of [brewcask][1] and [Boxen's in built support for
+homebrew/brewcask][2].
 
-[![Build Status](https://travis-ci.org/boxen/puppet-libpng.png?branch=master)](https://travis-ci.org/boxen/puppet-libpng)
-
-## Usage
-
-```puppet
-include libpng
-```
-
-## Required Puppet Modules
-
-* `boxen`
-* `homebrew`
+[1]: https://caskroom.github.io/
+[2]: https://git.io/v6NlB
